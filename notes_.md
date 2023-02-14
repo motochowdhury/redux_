@@ -5,3 +5,4 @@ Third day of redux
 Fourth day of Redux
 Fifth day of Redux
 Sixth day of Redux
+Seven Day of Redux
