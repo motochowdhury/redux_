@@ -4,7 +4,7 @@ const FormWithReducer = () => {
   const initialState = {};
   const reducer = (state, action) => {
     switch(action.type === "INPUT"){
-        case:
+        case: 
     }
   };
   const [state, dispatch] = useReducer(reducer, initialState);
