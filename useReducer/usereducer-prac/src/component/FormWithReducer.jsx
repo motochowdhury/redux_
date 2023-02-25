@@ -3,8 +3,7 @@ import React, { useReducer } from "react";
 const FormWithReducer = () => {
   const initialState = {};
   const reducer = (state, action) => {
-    switch(action.type === "INPUT"){
-        case: 
+    switch (action.type === "INPUT") {
     }
   };
   const [state, dispatch] = useReducer(reducer, initialState);
